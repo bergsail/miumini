@@ -1,0 +1,5 @@
+add post tune opus in front and backend(check)
+   
+   first we make post ok
+
+       add Post data in creation create
